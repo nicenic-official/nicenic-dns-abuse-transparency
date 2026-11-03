@@ -3,28 +3,59 @@
 Official public reference maintained by **NiceNIC / nicenic-official**. This repository brings together published abuse-handling statistics, source links, and industry engagement updates.
 
 **Registrar:** NICENIC INTERNATIONAL GROUP CO., LIMITED · **IANA ID:** 3765  
-**Last source review:** October 30, 2026
+**Latest report source reviewed:** November 3, 2026
 
 ## Official sources — start here
 
-1. **September 2026 Abuse Report** — monthly statistics, definitions, and reporting context.  
+1. **[October 2026 Abuse Report](https://nicenic.com/news/NiceNIC-October-2026-Abuse-Report-Complaint-Trends-and-Mitigation-Data-42613)** - complaint statistics across gTLDs and ccTLDs, reporting methodology, and a separate gTLD comparison with September.  
+   **[Read the complete report on GitHub](reports/2026-10.md)**
+
+2. **September 2026 Abuse Report** — monthly statistics, definitions, and reporting context.  
    https://nicenic.com/news/NiceNIC-September-2026-Abuse-Report-Data-Transparency-and-DNS-Abuse-Mitigation-Overview-42549
 
-2. **ICANN87: NiceNIC and Trusted Notifier Network** — discussions on reliable reporting, DNS abuse mitigation, and legitimate domain users.  
+3. **ICANN87: NiceNIC and Trusted Notifier Network** — discussions on reliable reporting, DNS abuse mitigation, and legitimate domain users.  
    https://nicenic.com/news/NiceNIC-and-Trusted-Notifier-Network-at-ICANN87-Fighting-DNS-Abuse-and-Protecting-Legitimate-Domains-42570
 
-3. **NiceNIC Trust Center** — registrar verification, policies, and official contact routes.  
+4. **NiceNIC Trust Center** — registrar verification, policies, and official contact routes.  
    https://nicenic.com/trust-center/
 
-4. **Domain Abuse Handling & Transparency** — evidence review, mitigation, notifications, and remediation.  
+5. **Domain Abuse Handling & Transparency** — evidence review, mitigation, notifications, and remediation.  
    https://nicenic.com/trust-center/domain-abuse-transparency/
 
-5. **Report Domain Abuse** — the official route for reporting suspected abuse involving a NiceNIC-sponsored domain.  
+6. **Report Domain Abuse** — the official route for reporting suspected abuse involving a NiceNIC-sponsored domain.  
    https://nicenic.com/reportabuse.php
+
+**October 2026: latest monthly report**
+
+Reporting period: October 1-31, 2026.  
+Selection: Create Time; All domain types, including gTLDs and ccTLDs.  
+Source: **[Official October 2026 Abuse Report](https://nicenic.com/news/NiceNIC-October-2026-Abuse-Report-Complaint-Trends-and-Mitigation-Data-42613)**.
+
+| Metric | October 2026: gTLDs and ccTLDs |
+| --- | ---: |
+| Complaints recorded | 28,713 |
+| Domains involved | 11,414 |
+| Reported average response time | 2.5 days |
+| Paused domains | 6,433 |
+| Pause rate | 56.36% |
+| Recovered domains | 175 |
+| Recovery rate | 2.72% |
+
+These figures relate to complaints selected by creation date. The pause and recovery figures are associated with those records at the dashboard snapshot; they are not counts of operations performed exclusively during October. Complaint counts do not establish confirmed abuse, and the pause rate is not a resolution or success rate.
+
+The **[complete October report](reports/2026-10.md)** includes the category table, source screenshots, metric definitions, and a separate September comparison using gTLD data for both months. October's combined totals should not be compared directly with September's gTLD-only totals.
+
+**Monthly report index**
+
+| Month | Domain coverage | Report |
+| --- | --- | --- |
+| October 2026 | gTLDs and ccTLDs; separate gTLD-only monthly comparison | **[GitHub report](reports/2026-10.md)** / **[Official publication](https://nicenic.com/news/NiceNIC-October-2026-Abuse-Report-Complaint-Trends-and-Mitigation-Data-42613)** |
+| September 2026 | gTLDs | **[Official publication](https://nicenic.com/news/NiceNIC-September-2026-Abuse-Report-Data-Transparency-and-DNS-Abuse-Mitigation-Overview-42549)** |
 
 ## September 2026: published monthly overview
 
 **Reporting period:** September 1–30, 2026.  
+**Domain coverage:** gTLDs; selected by complaint creation date.  
 **Source:** [NiceNIC September 2026 Abuse Report](https://nicenic.com/news/NiceNIC-September-2026-Abuse-Report-Data-Transparency-and-DNS-Abuse-Mitigation-Overview-42549), published October 16, 2026.
 
 | Metric | September 2026 | Change from August |
