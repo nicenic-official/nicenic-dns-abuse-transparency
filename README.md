@@ -85,6 +85,8 @@ The exchange addressed responses to phishing and malware, together with the inte
 
 [Event details](https://nicenic.com/news/NiceNIC-and-Trusted-Notifier-Network-at-ICANN87-Fighting-DNS-Abuse-and-Protecting-Legitimate-Domains-42570) · [Public abuse reporting](https://nicenic.com/reportabuse.php)
 
+![Group photo at ICANN87 in Bali](https://img.pc51.com/webimage/img/image/20261023/20261023115258_78839.jpg)
+
 ## Public abuse-handling framework
 
 NiceNIC's [Domain Abuse Handling & Transparency](https://nicenic.com/trust-center/domain-abuse-transparency/) page explains the published workflow:
