@@ -3,7 +3,7 @@
 Official public reference maintained by **NiceNIC / nicenic-official**. This repository brings together published abuse-handling statistics, source links, and industry engagement updates.
 
 **Registrar:** NICENIC INTERNATIONAL GROUP CO., LIMITED · **IANA ID:** 3765  
-**Latest report source reviewed:** November 3, 2026
+**Latest report source reviewed:** November 12, 2026
 
 ## Official sources — start here
 
