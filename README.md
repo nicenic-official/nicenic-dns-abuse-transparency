@@ -77,13 +77,13 @@ The **[complete October report](reports/2026-10.md)** includes the category tabl
 - The reported response time is a historical average, not a maximum response time or a resolution guarantee.
 - Aggregate figures do not disclose case details or current domain status.
 
-## ICANN87: trusted reporting and legitimate domain protection
+## ICANN87 update
 
-NiceNIC's [October 22, 2026 update](https://nicenic.com/news/NiceNIC-and-Trusted-Notifier-Network-at-ICANN87-Fighting-DNS-Abuse-and-Protecting-Legitimate-Domains-42570) records a meeting in Bali between CEO Helen and Alban Kwan, Co-Founder and CEO of the Trusted Notifier Network.
+October 2026 — NiceNIC met with the Trusted Notifier Network (TNN) during ICANN87 to discuss abuse reporting cooperation.
 
-The discussion covered report verification, accountability for submitted evidence, effective responses to phishing and malware, and reducing avoidable disruption to legitimate domain users. It also considered the distinction between maliciously registered domains and legitimate websites affected by compromise.
+The exchange addressed responses to phishing and malware, together with the interests of legitimate domain users.
 
-This update documents the discussion and its priorities. Consult the linked publication for the scope and context of the engagement.
+[Event details](https://nicenic.com/news/NiceNIC-and-Trusted-Notifier-Network-at-ICANN87-Fighting-DNS-Abuse-and-Protecting-Legitimate-Domains-42570) · [Public abuse reporting](https://nicenic.com/reportabuse.php)
 
 ## Public abuse-handling framework
 
